@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you want If I know
 - 📫 How to reach me: TG: https://t.me/kylin93
 - 😄 Pronouns: Nothing
-- ⚡ Fun fact:  Coding,Music,Play Games
+- ⚡ Fun fact:  Coding, Music, Games
 
 
 ## ⚡ Platforms
