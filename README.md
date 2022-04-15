@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## 🌎 Find me
 - wechat Official Account: search **firekylin93**📹 ✍🏾
-- blog: click [果果鸡](https://firekylin1993.github.io/)🏓
+- blog: click [果果](https://firekylin1993.github.io/)🏓
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [nginx+lua+redis服务降级](https://firekylin1993.github.io/2021/10/11/nginx+lua+redis%E6%9C%8D%E5%8A%A1%E9%99%8D%E7%BA%A7/)
