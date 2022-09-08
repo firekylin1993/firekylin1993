@@ -63,6 +63,17 @@ Here are some ideas to get you started:
 - [局域网端口穿透](https://firekylin1993.github.io/2021/07/09/%E5%B1%80%E5%9F%9F%E7%BD%91%E7%AB%AF%E5%8F%A3%E7%A9%BF%E9%80%8F/)
 <!-- BLOG-POST-LIST:END -->
 
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/firekylin1993/SK-builder-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=firekylin1993&repo=SK-builder-demo&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SK-builder-demo" />
+</a>
+
+<a href="https://github.com/firekylin1993/osync">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=firekylin1993&repo=osync&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="osync" />
+</a>
+
 ## 🌎 Visitors
 ![](https://visitor-badge.glitch.me/badge?page_id=firekylin1993/firekylin1993)
 
